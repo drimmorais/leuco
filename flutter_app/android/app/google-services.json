@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339710499117",
+    "firebase_url": "https://curriculos-1cf22.firebaseio.com",
+    "project_id": "curriculos-1cf22",
+    "storage_bucket": "curriculos-1cf22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339710499117:android:eb7bf98c1c9b34af389ba4",
+        "android_client_info": {
+          "package_name": "comflutter.testedri.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339710499117-8kk5j98i92fqusatjff5ohvs0aift0tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5TuA5xzx-ppSpdrucSml-RxfKoa-1nN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339710499117-8kk5j98i92fqusatjff5ohvs0aift0tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
